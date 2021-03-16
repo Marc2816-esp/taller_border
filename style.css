@@ -1,0 +1,14 @@
+p, ul{
+    border: 2px purple solid;
+}
+span{
+    border: 2px solid yellow;
+}
+ul{
+    padding: 0;
+    list-style: none;
+    display: inline-flex;
+}
+.inline{
+    display: inline;
+}
